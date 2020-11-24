@@ -1,0 +1,79 @@
+PODS:
+  - audioplayer (0.0.1):
+    - Flutter
+  - des_plugin (0.0.1):
+    - Flutter
+  - ext_storage (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_media_notification (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayer (from `.symlinks/plugins/audioplayer/ios`)
+  - des_plugin (from `.symlinks/plugins/des_plugin/ios`)
+  - ext_storage (from `.symlinks/plugins/ext_storage/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_media_notification (from `.symlinks/plugins/flutter_media_notification/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+
+EXTERNAL SOURCES:
+  audioplayer:
+    :path: ".symlinks/plugins/audioplayer/ios"
+  des_plugin:
+    :path: ".symlinks/plugins/des_plugin/ios"
+  ext_storage:
+    :path: ".symlinks/plugins/ext_storage/ios"
+  Flutter:
+    :path: Flutter
+  flutter_media_notification:
+    :path: ".symlinks/plugins/flutter_media_notification/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  audioplayer: 0584f31a697e4b0bbad405ae7903d7a93585e784
+  des_plugin: 1c5ba4934610125d3c5e5f65b055e81ffb789f6e
+  ext_storage: 4eaf3a84d5594106e2ebcc2502248cfde53c8fa1
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_media_notification: b950606ee6c7bc8b1fbecd8ad0f0b5c6f884d781
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
