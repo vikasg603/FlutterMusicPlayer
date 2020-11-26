@@ -65,8 +65,8 @@ class AboutCards extends StatelessWidget {
             child: Column(
               children: <Widget>[
                 ListTile(
-                  title: Image.network(
-                    "https://telegra.ph/file/4798f3a9303b8300e4b5b.png",
+                  title: Image.asset(
+                    'images/logo.png',
                     height: 120,
                   ),
                   subtitle: Padding(
