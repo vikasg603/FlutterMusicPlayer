@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_media_notification/flutter_media_notification.dart';
 import 'package:gradient_widgets/gradient_widgets.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
-import 'package:Musify/style/appColors.dart';
+import 'package:MusicPlayer/style/appColors.dart';
 
 import 'API/saavn.dart';
 

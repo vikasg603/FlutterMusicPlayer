@@ -13,21 +13,21 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:gradient_widgets/gradient_widgets.dart';
 import 'package:http/http.dart' as http;
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
-import 'package:Musify/API/saavn.dart';
-import 'package:Musify/music.dart';
-import 'package:Musify/style/appColors.dart';
-import 'package:Musify/ui/aboutPage.dart';
+import 'package:MusicPlayer/API/saavn.dart';
+import 'package:MusicPlayer/music.dart';
+import 'package:MusicPlayer/style/appColors.dart';
+import 'package:MusicPlayer/ui/aboutPage.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:progress_dialog/progress_dialog.dart';
 
-class Musify extends StatefulWidget {
+class MusicPlayer extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
     return AppState();
   }
 }
 
-class AppState extends State<Musify> {
+class AppState extends State<MusicPlayer> {
   TextEditingController searchBar = TextEditingController();
   bool fetchingSongs = false;
 

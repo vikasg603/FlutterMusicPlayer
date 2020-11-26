@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:Musify/style/appColors.dart';
-import 'package:Musify/ui/homePage.dart';
+import 'package:MusicPlayer/style/appColors.dart';
+import 'package:MusicPlayer/ui/homePage.dart';
 
 main() async {
   runApp(
@@ -11,7 +11,7 @@ main() async {
         primaryColor: accent,
         canvasColor: Colors.transparent,
       ),
-      home: Musify(),
+      home: MusicPlayer(),
     ),
   );
 }
